@@ -12,6 +12,8 @@
 
 IPFS Lite runs the minimal setup required to get and put IPLD DAGs on the IPFS network. It is a port of the [Go IPFS Lite](https://github.com/hsanjuan/ipfs-lite) library.
 
+the first version
+
 ## Table of Contents
 
 - [android-ipfs-lite](#android-ipfs-lite)
